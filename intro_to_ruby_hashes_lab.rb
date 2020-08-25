@@ -41,7 +41,7 @@ def monopoly_with_third_tier
         
       },
       :names => {
-        
+        :one_piece_owned => 25
       }
     }
   }
